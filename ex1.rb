@@ -5,3 +5,5 @@ puts "This is fun."
 puts "Yaya! Printing."
 puts "I'd much rather you 'not'."
 puts 'I "said" do not touch this.'
+puts "Time to face the STRANGE"
+puts "Ch-ch-changes!"
