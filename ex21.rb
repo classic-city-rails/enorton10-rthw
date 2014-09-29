@@ -1,6 +1,6 @@
 def add(a,b)
 	puts "ADDING #{a} + #{b}"
-	return a + bend
+	return a + b
 end
 
 def subtract(a, b)
