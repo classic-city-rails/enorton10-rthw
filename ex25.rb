@@ -3,12 +3,12 @@ module Ex25
 	# This function will brea up words for us.
 	def Ex25.break_words(stuff)
 		words = stuff.split(' ')
-		return wordsend
+		return words
 	end
 
 	# Sorts the words
 	def Ex25.sort_words(words)
-		return words.sort_words
+		return words.sort
 	end
 
 	# Print the first word after shifting it off
