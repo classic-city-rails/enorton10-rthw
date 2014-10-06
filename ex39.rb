@@ -26,7 +26,7 @@ puts "OR State has: #{cities['OR']}"
 # puts some states
 puts '-' * 10
 puts "Michigan's abbreviation is #{states['Michigan']}"
-puts "Florida's abbreviation is #{states[Florida]}"
+puts "Florida's abbreviation is #{states['Florida']}"
 
 # do it by using the ctate then cities dict
 puts '-' * 10
@@ -41,7 +41,7 @@ end
 
 # puts city in every state
 puts '-' * 10
-cities.each do |abbre, city|
+cities.each do |abbrev, city|
 	puts "#{abbrev} has the city #{city}"
 end
 
